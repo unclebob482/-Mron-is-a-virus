@@ -1,2 +1,4 @@
 # -Mron-is-a-virus
-Mron
+I've been hearing some concerns about the MRON mod for Warzone 1. While the mod is supposed to bring back a classic gameplay experience, there are increasing reports that it might be carrying some serious risks. For instance, a file called sewi.exe is coming under fire. Rather than just being a simple injector as claimed, there are worries it could actually act like Trojan or RAT malware—sneaking into your system, even hiding in the startup folder, to quietly steal your data.
+It's hard to verify every claim out there, but this potential for hidden malware is definitely something to take seriously. If you're thinking about using the mod, it might be worth taking extra precautions. Running a trusted antivirus scan and checking your system for any unusual startup entries could save you from a lot of trouble later on.
+
